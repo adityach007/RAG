@@ -18,4 +18,7 @@
 
 **8. HuggingFaceEmbedding**: We have utitlized huggingface embeddings by using the sentence transformer model.
 
-**9. Settings**:
+
+# WorkFlow:
+
+![Screenshot 2024-12-21 185804](https://github.com/user-attachments/assets/670380b7-ec3b-4280-a4a1-2efe5156eebd)
